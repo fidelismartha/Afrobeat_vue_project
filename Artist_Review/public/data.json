@@ -1,0 +1,149 @@
+ [
+
+    {
+        "id": 0,
+        "name": "Asake(Ahmed Olade)",
+        "img": "https://i.imgur.com/9SiruE7.jpg",
+        "content": "Known for his soulful voice, and catchy hooks, and fusions of traditional Nigerian Music with modern production",
+        "genre":"Afrobeat,Indie,Amapiano",
+        "popular_songs":{
+           "song1": "Terminator",
+           "song2": "Palazzo",
+           "song3":  "Mr Money",
+            "song4": "Omp Ope "
+        },
+            "video": {
+             "title": "YouTube video player",
+             "url": "https://youtu.be/m7ZRpYLppyg"                    
+        }
+            
+    },
+    {
+        "id": 1,
+        "name": "Ayra star (Aderibigbe)",
+        "video": {
+             "title": "YouTube video player",
+             "url": "https://youtu.be/EhyzYPSHRQU"                    
+        },
+        
+        "img": "https://i.imgur.com/7WUpqMX.jpg",
+        "content": "Known for her powerful vocals, introspective lyrics, and genre-bending sound ",
+        "genre":"Afrobeat,pop,R&B",
+        "popular_songs":{
+
+            "song1":"Fashion Killer",
+            "song2":"Bloody Samarithan",
+             "song3":"Commas",
+             "song4":"Rush"
+        }
+            
+    },
+    {
+        "id": 2,
+        "name": "omay lay (Omah Didia)",
+        "img": "https://i.imgur.com/m6Sg1Nd.jpg",
+        "content": "Known for His soulful , introspective lyrics, and genre-bending sound",
+        "genre":"Afrobeat,pop,R&B",
+        "popular_songs":{
+          "song1":  "Bad Influence",
+            "song2":" Purle song",
+           "song3":  "moving",
+            "song4": "Say yeah "
+        },
+            "video": {
+             "title": "YouTube video player",
+             "url": "https://youtu.be/m7ZRpYLppyg"                    
+        }
+    },
+    {
+        "id": 3,
+        "name": " Bourna Boy(Damini )",
+        "img": "https://i.imgur.com/SFSxL30.jpg",
+        "content": "Known for his energetic live performance",
+        "genre":"Afrobeat,Hip-Hop,R&B",
+        "popular_songs":{
+          "song1":  "African Giant",
+           "song2": "Gbona",
+             "song3":"Last Last",
+              "song4": "On the low "
+        },
+            "video": {
+             "title": "YouTube video player",
+             "url": "https://youtu.be/m7ZRpYLppyg"                    
+        }
+    }
+    
+    ,
+    {
+        "id": 4,
+        "name": "Davido (Adedji Adeleke)",
+        "img": "https://i.imgur.com/8rlJAIk.jpg",
+        "content": "Known for his energetic live performance,hit singles, and collaborattions with international Artist",
+        "genre":"Afrobeat,pop,R&B",
+        "popular_songs":{
+           "song1": "Aaaurance",
+           "song2": "Fall",
+           "song3":  "Peruzzi",
+           "song4":  "Risky"
+             
+        },
+            "video": {
+             "title": "YouTube video player",
+             "url": "https://youtu.be/m7ZRpYLppyg"                    
+        }
+
+    },
+    {
+        "id": 5,
+        "name": "Rema(Divine Ikubor)",
+        "img": "https://i.imgur.com/QdinsmT.jpg",
+        "content": "Known for his Unque voice, catchy hooks, and fusion of Afrobeas with international sounds",
+        "genre":"Afrobeat,pop,R&B",
+        "popular_songs":{
+          "song1":  "Bad commando",
+           "song2": "Dumebi",
+            "song3": "Lady",
+              "song4": "Calm down"
+        },
+        "video": {
+             "title": "YouTube video player",
+             "url": "https://youtu.be/m7ZRpYLppyg"                    
+        }
+ 
+    },
+    {
+        "id": 6,
+        "name": "wizkid(Ayode Ibrahim)",
+        "img": "https://i.imgur.com/XImlDXZ.jpg",
+        "content": "Known for his soulful voice, and catchy hooks, and fusions of traditional Nigerian Music with modern production",
+        "genre":"Afrobeat,pop,R&B",
+        "popular_songs":{
+           "song1": "Essence",
+           "song2": "come closer",
+            "song3": "Brown skin girl",
+            "song4": " Joro"
+        },
+        "video": {
+             "title": "YouTube video player",
+             "url": "https://youtu.be/m7ZRpYLppyg"                    
+        }
+    },
+    {
+        "id": 7,
+        "name": "Tems(Temilade openiye)",
+        "img": "https://i.imgur.com/tNo1LE9.jpg",
+        "content": "knowm for Her soulful voice , introspective lyrics, and blend of traditional nigerian music with modern production",
+        "genre":"Afrobeat,pop,R&B, Alternative",
+        "popular_songs":{
+           "song1": "Crazy things",
+            "song2": "Rebel",
+            "song3": "Vibe Out",
+             "song4":"Fre mind"
+        },
+            "video": {
+             "title": "YouTube video player",
+             "url": "https://youtu.be/m7ZRpYLppyg"                    
+        }
+    }
+    
+]
